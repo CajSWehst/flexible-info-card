@@ -24,7 +24,7 @@ body {
 
 li {
   display: flex;
-  justify content: space-between;
+  content: space-between;
   align-items: center;
 }
 
@@ -34,7 +34,6 @@ img {
 
 hgroup {
   width: 16rem;
-  margin: 1.5;
 }
 
 p {
@@ -49,5 +48,6 @@ a{
 }
 
 h2 {
-  align: center;
+  text-align: center;
+  padding: 2rem;
 }
