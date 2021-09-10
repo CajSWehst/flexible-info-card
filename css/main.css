@@ -24,7 +24,7 @@ body {
 
 li {
   display: flex;
-  content: space-between;
+  justify-content: space-between;
   align-items: center;
 }
 
