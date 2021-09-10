@@ -7,7 +7,6 @@ Paddings: .5rem 1rem .6rem, 2rem
 Widths: 24rem, 16rem, 5rem
 */
 
-
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
@@ -20,6 +19,7 @@ html {
 
 body {
   background-color: #ccc;
+  margin: 1.5;
 }
 
 li {
