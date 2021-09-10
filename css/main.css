@@ -21,3 +21,8 @@ html {
 body {
   background-color: #444;
 }
+
+section {
+  display: flex;
+
+}
