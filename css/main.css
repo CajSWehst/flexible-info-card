@@ -19,10 +19,35 @@ html {
 }
 
 body {
-  background-color: #444;
+  background-color: #ccc;
 }
 
-section {
+li {
   display: flex;
+  justify content: space-between;
+  align-items: center;
+}
 
+img {
+  width: 5rem;
+}
+
+hgroup {
+  width: 16rem;
+  margin: 1.5;
+}
+
+p {
+  width: 24rem;
+}
+
+a{
+  color: #ccc;
+  background-color: #444;
+  padding: .5rem 1rem;
+  margin: 1.5;
+}
+
+h2 {
+  align: center;
 }
